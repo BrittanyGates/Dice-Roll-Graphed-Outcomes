@@ -9,7 +9,7 @@ This program runs in the user's Terminal to roll one die or two dice 1000 times 
 A CLI application allowing users to roll different sided die or dice, and display the counts of each result in
 a bar graph in your default web browser. Use the output for common and rare numbers for a game or application.
 
-## Dependencies
+## Program Dependencies
 
 > I recommend installing these in a Python Virtual Environment (virtualenv).
 >
@@ -19,7 +19,7 @@ a bar graph in your default web browser. Use the output for common and rare numb
 > the [official Python Documentation](https://docs.python.org/3/library/venv.html).
 
 * Python 3
-    * Linux OS users: Python is already installed
+    * Linux OS users: Python is already installed.
     * macOS users and Windows users: Python installation files are available from
       the [official Python website](https://www.python.org/downloads/release/python-3130/).
 * Pandas
@@ -38,31 +38,17 @@ a bar graph in your default web browser. Use the output for common and rare numb
 
 ## Running The Program
 
-> I recommend executing this program in a Python Virtual Environment (virtualenv) to install the dependencies easier.
->
-> Learn more about virtualenvs, including how to create them, from
-> the [official Python Documentation](https://docs.python.org/3/library/venv.html).
-
-1. Open the Terminal
+1. Open the Terminal.
 2. Change directory (`cd`) to the `src` directory of the program's directory path using the examples below:
     - Linux or macOS: `cd /home/$username/Downloads/Dice-Roll-Graphed-Outcomes-master/src`
     - Windows: `cd \Users\$username\Downloads\Dice-Roll-Graphed-Outcomes-master\src`
-3. Type the following command to run the program: `python main.py` or `python3 main.py`
+3. Type the following command to run the program: `python main.py` or `python3 main.py`.
 
-## Help
+## Found A Bug? Need Help?
 
 Please file a new issue using the [Issues](https://github.com/BrittanyGates/Dice-Roll-Graphed-Outcomes/issues) tab on
 the
 repo.
-
-## Creator
-
-* Brittany Gates
-    * [Website](https://brittbot.com)
-    * [Email](mailto:support@brittbot.com)
-    * [LinkedIn](https://www.linkedin.com/in/brittanycgates/)
-    * [Twitter / X](https://x.com/brittany__gates)
-    * [YouTube](https://www.youtube.com/c/BrittanyGates)
 
 ## Version History
 
